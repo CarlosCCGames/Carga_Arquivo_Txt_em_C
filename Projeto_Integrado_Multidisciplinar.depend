@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679606289 source:c:\users\carlo\onedrive\Área de trabalho\aulas power bi\05 - aulas c\exercício 12\projeto_integrado_multidisciplinar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
